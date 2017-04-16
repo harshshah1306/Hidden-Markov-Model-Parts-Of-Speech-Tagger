@@ -24,7 +24,7 @@ CONTENTS:
 - files tagged.{ca,es,en}.tgz: tagged documents, that is, documents processed with (tokenized, lemmatized, POS-tagged, automatically word sense disambiguated) with FreeLing (v. 2.1, default options), which includes the UKB algorithm for WSD.
 
 DOCUMENTATION:
-Samuel Reese, Gemma Boleda, Montse Cuadros, LluÃ­s PadrÃ³, German Rigau. 2010. Word-Sense Disambiguated Multilingual Wikipedia Corpus. In Proceedings of 7th Language Resources and Evaluation Conference (LREC'10), La Valleta, Malta. May, 2010.
+Samuel Reese, Gemma Boleda, Montse Cuadros, Lluís Padró, German Rigau. 2010. Word-Sense Disambiguated Multilingual Wikipedia Corpus. In Proceedings of 7th Language Resources and Evaluation Conference (LREC'10), La Valleta, Malta. May, 2010.
 
 LICENSE:
 The WikiCorpus is licensed under the same license as Wikipedia, that is, the GNU Free Documentation License (FDL; http://www.fsf.org/licensing/licenses/fdl.html). That means that you are allowed to use and redistribute the texts, provided the derived works keep the same license.
